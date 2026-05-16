@@ -60,5 +60,5 @@ Para desplegar este proyecto de forma idéntica en cualquier entorno local o en 
 
 ## 👥 Equipo Promptásticos
 
-- [Elvis Marcillo](https://github.com/Elvism404)
-- [Kristel Echeverría](https://github.com/Krissie2005)
+- [Elvis Marcillo Moncayo](https://github.com/Elvism404)
+- [Kristel Echeverría Montenegro](https://github.com/Krissie2005)
