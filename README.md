@@ -26,25 +26,18 @@ Un agente que analiza de forma anónima los diagnósticos más frecuentes del ho
 Para probar la aplicación interactiva en tiempo real, acceda al siguiente enlace:
 👉 **[Ejecutar HealthGuard AI](https://c9678688-1a10-41b5-a0c0-da41d3a28f7a-00-12htecrt17g94.spock.replit.dev:8000/)**
 
-
-## 📊 CRM y Registro de Beneficios
-
-HealthGuard AI integra Notion como sistema CRM para almacenar y visualizar los registros de asegurados que completan sus chequeos preventivos.
-
-Cada vez que un usuario cumple con su control médico:
-- Se registra automáticamente en la base de datos
-- Se aplica un descuento del 10%
-- La información queda organizada en tiempo real
-
-🔗 Base de datos en Notion:
-https://seen-eyeliner-3e4.notion.site/3611a1ce16d0805ab701fa0fd68510bb?v=3611a1ce16d08086a824000c885b1978
-
 ---
 
 ## 📋 Instrucciones de Uso de la Plataforma
 
 1. **Generación de Campañas:** En el cuadro de texto de "Diagnósticos", ingrese una o varias condiciones médicas (ej. *Hipertensión*, *Diabetes*) y haga clic en **"Generar campañas"**. El motor de IA Gemini procesará y desplegará la estrategia preventiva en la pantalla.
 2. **Gamificación y Registro CRM:** En la sección inferior, ingrese el nombre de un asegurado que haya asistido a su control y presione **"Registrar Chequeo Cumplido"**. El sistema calculará automáticamente un **10% de descuento** en su prima y enviará un registro seguro mediante la API directo a la base de datos de Notion.
+
+## 📊 CRM y Registro de Beneficios
+
+HealthGuard AI integra Notion como sistema CRM para almacenar y visualizar los registros de asegurados que completan sus chequeos preventivos.
+
+🔗 [Acceder a la base de datos de Notion](https://seen-eyeliner-3e4.notion.site/3611a1ce16d0805ab701fa0fd68510bb?v=3611a1ce16d08086a824000c885b1978)
 
 ---
 
