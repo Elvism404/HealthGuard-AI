@@ -1,6 +1,6 @@
 # 🏥 HealthGuard AI - Agente de Bienestar Preventivo y Gamificación de Salud
 
-## 🚀 Proyecto desarrollado para hackIAthon 2026
+## Proyecto desarrollado para hackIAthon 2026
 
 HealthGuard AI fue desarrollado por el equipo **Promptásticos** como parte del proceso de selección del hackIAthon organizado por VIAMATICA.
 
@@ -26,7 +26,6 @@ Un agente que analiza de forma anónima los diagnósticos más frecuentes del ho
 Para probar la aplicación interactiva en tiempo real, acceda al siguiente enlace:
 👉 **[Ejecutar HealthGuard AI](https://c9678688-1a10-41b5-a0c0-da41d3a28f7a-00-12htecrt17g94.spock.replit.dev:8000/)**
 
--
 
 ## 📊 CRM y Registro de Beneficios
 
