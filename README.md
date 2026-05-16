@@ -8,12 +8,7 @@ Nuestra propuesta utiliza Inteligencia Artificial para analizar diagnósticos fr
 
 Además, el sistema incorpora gamificación médica mediante beneficios automáticos para asegurados que cumplen sus chequeos preventivos.
 
-Con este proyecto buscamos demostrar nuestras habilidades en:
-- Inteligencia Artificial aplicada
-- Automatización de procesos
-- Integración de APIs
-- Desarrollo backend
-- Soluciones tecnológicas para el sector salud
+Con este proyecto buscamos aportar una solución tecnológica enfocada en prevención y bienestar, combinando herramientas de Inteligencia Artificial, automatización e integración de servicios para mejorar la experiencia en el sector salud.
   
 ---
 
@@ -63,10 +58,7 @@ Para desplegar este proyecto de forma idéntica en cualquier entorno local o en 
 
 ---
 
-## 👥 Colaboradores
+## 👥 Equipo Promptásticos
 
-- Elvis Marcillo  
-🔗 https://github.com/Elvism404
-
-- Kristel Echeverría  
-🔗 https://github.com/Krissie2005
+- [Elvis Marcillo](https://github.com/Elvism404)
+- [Kristel Echeverría](https://github.com/Krissie2005)
