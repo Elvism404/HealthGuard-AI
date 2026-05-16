@@ -19,7 +19,7 @@ Un agente que analiza de forma anónima los diagnósticos más frecuentes del ho
 
 ## 🚀 Enlace de Acceso Funcional
 Para probar la aplicación interactiva en tiempo real, acceda al siguiente enlace:
-👉 **[Ejecutar HealthGuard AI](https://c9678688-1a10-41b5-a0c0-da41d3a28f7a-00-12htecrt17g94.spock.replit.dev:8000/)**
+👉 **[Ejecutar HealthGuard AI](https://healthguard-ai-4yaa.onrender.com/)**
 
 ---
 
