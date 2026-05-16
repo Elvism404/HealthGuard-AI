@@ -14,6 +14,8 @@ Con este proyecto buscamos demostrar nuestras habilidades en:
 - Integración de APIs
 - Desarrollo backend
 - Soluciones tecnológicas para el sector salud
+  
+---
 
 ## 📝 Descripción del Proyecto
 Un agente que analiza de forma anónima los diagnósticos más frecuentes del hospital para esa aseguradora y diseña campañas de prevención específicas (ej. chequeos de próstata o mamas). Si el asegurado cumple con su chequeo en el hospital, el agente le otorga beneficios o descuentos automáticos en su prima en el CRM de Notion.
@@ -23,6 +25,8 @@ Un agente que analiza de forma anónima los diagnósticos más frecuentes del ho
 ## 🚀 Enlace de Acceso Funcional
 Para probar la aplicación interactiva en tiempo real, acceda al siguiente enlace:
 👉 **[Ejecutar HealthGuard AI](https://c9678688-1a10-41b5-a0c0-da41d3a28f7a-00-12htecrt17g94.spock.replit.dev:8000/)**
+
+-
 
 ## 📊 CRM y Registro de Beneficios
 
